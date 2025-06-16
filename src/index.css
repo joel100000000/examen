@@ -1,0 +1,11 @@
+body, html, #root {
+  height: 100%;
+  margin: 0;
+  background: linear-gradient(135deg, #ff4e50, #f9d423);
+  font-family: 'Segoe UI', sans-serif;
+  color: #fff;
+}
+
+a {
+  text-decoration: none;
+}
